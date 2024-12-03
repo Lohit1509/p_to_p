@@ -13,7 +13,7 @@ const Home = () => {
             
           </div>
 
-          <h2 className="text-4xl font-extrabold lg:text-7xl">Share the interview link using your social media apps</h2>
+          <h2 className="glassmorphism max-w-[273px] rounded py-2 text-center text-base font-normal">Share the interview link using your social media apps</h2>
          
           
         </div>
