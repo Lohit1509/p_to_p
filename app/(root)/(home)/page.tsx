@@ -10,8 +10,10 @@ const Home = () => {
           
           <div className="flex flex-col gap-2">
             <h1 className="text-4xl font-extrabold lg:text-7xl">Schedule Mock interviews with other Candidates</h1>
-            <h2 className="text-4xl font-extrabold lg:text-7xl">Share the interview link using your social media apps</h2>
+            
           </div>
+
+          <h2 className="text-4xl font-extrabold lg:text-7xl">Share the interview link using your social media apps</h2>
          
           
         </div>
